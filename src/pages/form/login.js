@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import {Card,Form,Input,Button,Icon,message,Checkbox} from 'antd';
-import FormItem from 'antd/lib/form/FormItem';
 
 class FormLogin extends Component {
 
